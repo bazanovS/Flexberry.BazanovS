@@ -1,0 +1,44 @@
+﻿{
+  "applicationCaption": "Bazanov S",
+  "applicationTitle": "Bazanov S",
+  "items": [
+    {
+      "link": null,
+      "menuName": "клиентам",
+      "caption": "Клиентам",
+      "title": "Клиентам",
+      "children": [
+        {
+          "link": "i-i-s-bazanov-s-заказ-l",
+          "menuName": null,
+          "caption": "Заказ",
+          "title": "",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "сотрудникам",
+      "caption": "Сотрудникам",
+      "title": "Сотрудникам",
+      "children": [
+        {
+          "link": "i-i-s-bazanov-s-напитки-l",
+          "menuName": null,
+          "caption": "Напитки",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-bazanov-s-продукты-l",
+          "menuName": null,
+          "caption": "Продукты",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
